@@ -8,5 +8,6 @@
     "url": "https://luttie.app"
   },
   "homepage": "https://luttie.app/mcp",
+  "license": "MIT",
   "keywords": ["color grading", "lut", "photo", "video", "ai"]
 }
