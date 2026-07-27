@@ -5,7 +5,7 @@ A Claude Code plugin that connects Claude to [Luttie](https://luttie.app), givin
 ## Install
 
 ```
-/plugin marketplace add kiing-dom/luttie-mcp-plugin
+/plugin marketplace add iwaju-labs/luttie-mcp-plugin
 /plugin install luttie@luttie
 ```
 
