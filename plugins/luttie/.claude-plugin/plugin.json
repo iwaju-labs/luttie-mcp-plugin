@@ -1,0 +1,12 @@
+{
+  "name": "luttie",
+  "displayName": "Luttie",
+  "description": "Color grading tools for Claude: browse LUTs, generate AI color grades from a text prompt, and apply LUTs to images, via Luttie's remote MCP server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Luttie",
+    "url": "https://luttie.app"
+  },
+  "homepage": "https://luttie.app/mcp",
+  "keywords": ["color grading", "lut", "photo", "video", "ai"]
+}

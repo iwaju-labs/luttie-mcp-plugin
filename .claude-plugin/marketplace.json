@@ -1,0 +1,16 @@
+{
+  "name": "luttie",
+  "owner": {
+    "name": "Luttie",
+    "url": "https://luttie.app"
+  },
+  "description": "Color grading tools for Claude, from Luttie.",
+  "plugins": [
+    {
+      "name": "luttie",
+      "source": "./plugins/luttie",
+      "description": "Browse LUTs, generate AI color grades from a prompt, and apply LUTs to images, all from Claude, via Luttie's MCP server.",
+      "homepage": "https://luttie.app/mcp"
+    }
+  ]
+}

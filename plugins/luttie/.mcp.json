@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "luttie": {
+      "type": "http",
+      "url": "https://luttie.app/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${LUTTIE_API_KEY}"
+      }
+    }
+  }
+}
